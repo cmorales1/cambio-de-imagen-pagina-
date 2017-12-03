@@ -1,0 +1,47 @@
+.container {
+	padding-top: 55px; 
+	padding-left: 88px !important; 
+	padding-right: 88px !important;
+}
+
+.logo {
+ 
+}
+
+.botones {
+	top: 45px;
+
+}
+
+.inicio {
+	top: 25px;
+}
+
+.cuadrado {
+	
+	
+	background: url("imagenes/cuadrado.png");
+	top: 20px ;
+}
+
+.image1 {
+	top: 10px;
+}
+
+.cuatexto {
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: 200px;
+	width: 50px ;
+	background: #fff ;
+	position: absolute;
+
+
+
+}
+
+.letra {
+	color: #fff;
+}
+
